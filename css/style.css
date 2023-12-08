@@ -41,7 +41,7 @@ h1 {
 
 h2 {
   font-family: 'Cormorant', serif;
-  font-size: 18px;
+  font-size: 36px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -128,7 +128,7 @@ font-family: 'Open Sans', sans-serif;
 
 .description {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 24px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
