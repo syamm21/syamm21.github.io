@@ -51,7 +51,7 @@ h2 {
 
 img {
   width: 100%;
-  height: auto;
+  height: 75%;
 }
 
 .wrapper {
@@ -62,8 +62,9 @@ img {
 }
 
 .bio {
+text-align: center;
 color: #ffffff;
-font-size: 24px;
+font-size: 36px;
 font-family: 'Open Sans', sans-serif;
 }
 
